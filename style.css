@@ -78,6 +78,8 @@ twiter:hover {
 git {
   font-size: 40px;
 background-image: url(https://img1.wallspic.com/previews/2/7/8/5/5/155872/155872-github-logo-azure-aqua-turquoise-x750.jpg);
+width: 248px;
+height: 96px;
 border-radius: 10px;
 border: 4px double #cccccc;
 color: #eeeeee;
@@ -95,5 +97,5 @@ font-family: 'Roboto', sans-serif;
 }
 
 git:hover {
-  background-color: rgb(0, 120, 205);
+  background-color: rgb(141, 151, 158);
 }
