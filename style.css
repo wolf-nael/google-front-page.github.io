@@ -51,3 +51,26 @@ twiter:hover {
 fifa:hover {
   background-color: rgb(49, 0, 104);
 }
+
+twit {
+  font-size: 40px;
+background-color: #c800ff;
+border-radius: 10px;
+border: 4px double #cccccc;
+color: #eeeeee;
+text-align: center;
+padding: 20px;
+width: 200px;
+-webkit-transition: all 0.5s;
+-moz-transition: all 0.5s;
+-o-transition: all 0.5s;
+transition: all 0.5s;
+cursor: pointer;
+margin: 5px;
+float: left;
+font-family: 'Roboto', sans-serif;
+}
+
+twit:hover {
+  background-color: rgb(49, 0, 104);
+}
