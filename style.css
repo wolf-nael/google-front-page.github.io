@@ -29,7 +29,7 @@ twiter:hover {
     background-color: rgb(0, 0, 0);
   }
 
-  twitch {
+  fifa {
     font-size: 40px;
   background-color: #a200ff;
   border-radius: 10px;
@@ -47,6 +47,7 @@ twiter:hover {
   float: left;
   font-family: 'Roboto', sans-serif;
 }
-twitch:hover {
+
+fifa:hover {
   background-color: rgb(0, 150, 73);
 }
