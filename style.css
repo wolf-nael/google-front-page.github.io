@@ -7,7 +7,7 @@ body {
     margin: 25px;
 }
 
-twiter {
+youtube {
     font-size: 40px;
   background-color: #ff0000;
   border-radius: 10px;
@@ -25,7 +25,7 @@ twiter {
   float: left;
   font-family: 'Roboto', sans-serif;
 }
-twiter:hover {
+youtube:hover {
     background-color: rgb(0, 0, 0);
   }
 
@@ -52,7 +52,7 @@ fifa:hover {
   background-color: rgb(49, 0, 104);
 }
 
-twit {
+twiter {
   font-size: 40px;
 background-color: #00e1ff;
 border-radius: 10px;
@@ -71,6 +71,6 @@ float: left;
 font-family: 'Roboto', sans-serif;
 }
 
-twit:hover {
+twiter:hover {
   background-color: rgb(0, 120, 205);
 } 
