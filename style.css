@@ -123,7 +123,7 @@ appl:hover {
 
 gpt {
   font-size: 40px;
-background-color:rgb(116, 116, 116);
+background-color:rgb(66, 172, 0);
 border-radius: 10px;
 border: 4px double #cccccc;
 color: #eeeeee;
@@ -141,5 +141,5 @@ font-family: 'Roboto', sans-serif;
 }
 
 gpt:hover {
-  background-color: rgb(220, 220, 220);
+  background-color: rgb(255, 255, 255);
 }
