@@ -98,7 +98,7 @@ git:hover {
   background-color: rgb(151, 120, 213);
 }
 
-apple {
+appl {
   font-size: 40px;
 background-color:rgb(116, 116, 116);
 border-radius: 10px;
@@ -117,6 +117,6 @@ float: left;
 font-family: 'Roboto', sans-serif;
 }
 
-apple:hover {
+appl:hover {
   background-color: rgb(220, 220, 220);
 }
