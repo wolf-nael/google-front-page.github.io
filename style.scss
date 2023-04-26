@@ -1,0 +1,151 @@
+$color_1: rgba(215, 136, 109, 1);
+$color_2: #eeeeee;
+$font-family_1: 'Product Sans', sans-serif;
+$font-family_2: 'Roboto', sans-serif;
+$background-color_1: rgb(245, 225, 218);
+$background-color_2: #ff0000;
+$background-color_3: rgb(0, 0, 0);
+$background-color_4: #c800ff;
+$background-color_5: rgb(49, 0, 104);
+$background-color_6: #00e1ff;
+$background-color_7: rgb(0, 120, 205);
+$background-color_8: rgb(151, 120, 213);
+$background-color_9: rgb(116, 116, 116);
+$background-color_10: rgb(220, 220, 220);
+$background-color_11: rgb(66, 172, 0);
+$background-color_12: rgb(255, 255, 255);
+
+body {
+	background-color: $background-color_1;
+	font-size: 50px;
+	font-family: $font-family_1;
+	text-align: center;
+	color: $color_1;
+	margin: 25px;
+}
+ifaf {
+	font-size: 40px;
+	background-color: $background-color_2;
+	border-radius: 10px;
+	border: 4px double #cccccc;
+	color: $color_2;
+	text-align: center;
+	padding: 20px;
+	width: 200px;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px;
+	float: left;
+	font-family: $font-family_2;
+	&:hover {
+		background-color: $background-color_3;
+	}
+}
+fifa {
+	font-size: 40px;
+	background-color: $background-color_4;
+	border-radius: 10px;
+	border: 4px double #cccccc;
+	color: $color_2;
+	text-align: center;
+	padding: 20px;
+	width: 200px;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px;
+	float: left;
+	font-family: $font-family_2;
+	&:hover {
+		background-color: $background-color_5;
+	}
+}
+twiter {
+	font-size: 40px;
+	background-color: $background-color_6;
+	border-radius: 10px;
+	border: 4px double #cccccc;
+	color: $color_2;
+	text-align: center;
+	padding: 20px;
+	width: 200px;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px;
+	float: left;
+	font-family: $font-family_2;
+	&:hover {
+		background-color: $background-color_7;
+	}
+}
+git {
+	font-size: 40px;
+	background-color: $background-color_3;
+	border-radius: 10px;
+	border: 4px double #cccccc;
+	color: $color_2;
+	text-align: center;
+	padding: 20px;
+	width: 200px;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px;
+	float: left;
+	font-family: $font-family_2;
+	&:hover {
+		background-color: $background-color_8;
+	}
+}
+appl {
+	font-size: 40px;
+	background-color: $background-color_9;
+	border-radius: 10px;
+	border: 4px double #cccccc;
+	color: $color_2;
+	text-align: center;
+	padding: 20px;
+	width: 200px;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px;
+	float: left;
+	font-family: $font-family_2;
+	&:hover {
+		background-color: $background-color_10;
+	}
+}
+gpt {
+	font-size: 40px;
+	background-color: $background-color_11;
+	border-radius: 10px;
+	border: 4px double #cccccc;
+	color: $color_2;
+	text-align: center;
+	padding: 20px;
+	width: 200px;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px;
+	float: left;
+	font-family: $font-family_2;
+	&:hover {
+		background-color: $background-color_12;
+	}
+}
